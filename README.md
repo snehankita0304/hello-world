@@ -1,2 +1,2 @@
 # hello-world
-Just a trail to begin with.
+Learning to explore github!
